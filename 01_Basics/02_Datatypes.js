@@ -1,12 +1,13 @@
 "use strict"; //code should be execute in strictMode. Treat all js code as newer version
+// p=100; Not possible with use strict
 
 //alert(3+3); //ReferenceError: alert is not defined. We are using Node as Compiler not a browser Js compiler
 
 // console.log(3+
 //     3) // code Readability should be readable;
 
-let a= "4"+3;
-console.log(typeof a);
+
+
 
 //Ecma script write standard, rules, regulation for javascript;
 
@@ -23,9 +24,6 @@ console.log(typeof a);
 
 
 console.log(typeof undefined); // undefined
-
 console.log(typeof null); //object
-
-
 
 
